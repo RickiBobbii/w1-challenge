@@ -1,4 +1,4 @@
-# Info below is copied from 1st Challenge from edX
+# User story and Acceptance Criteria is copied from 1st Challenge from edX
 
 ## User Story
 
@@ -23,3 +23,17 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Visuals
+
+![Screenshoot of webpage][def]
+
+## Github Link
+
+[Week-one challenge link](https://rickibobbii.github.io/w1-challenge/)
+
+
+## License
+
+MIT License
+
+[def]: ./assets/images/screenshot.png
